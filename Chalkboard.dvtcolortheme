@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0 0.462745 1 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>DroidSansMono - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.329412 0.780392 0.988235 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>DroidSansMono - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.329412 0.780392 0.988235 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>DroidSansMono - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0 0.462745 1 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>DroidSansMono - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.329412 0.780392 0.988235 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>DroidSansMono - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -47,11 +47,11 @@
 		<key>xcode.syntax.character</key>
 		<string>0.733333 0.6 0.733333 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.85098 0.843137 0.384314 1</string>
+		<string>1 0.803922 0 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.85098 0.843137 0.384314 1</string>
+		<string>1 0.803922 0 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.85098 0.843137 0.384314 1</string>
+		<string>1 0.803922 0 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.4 0.8 1 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -83,7 +83,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.490196 0.686275 0.611765 1</string>
+		<string>0.937255 0.796078 0.262745 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.937255 0.67451 0.196078 1</string>
 		<key>xcode.syntax.url</key>
@@ -92,51 +92,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>DroidSansMono - 12.0</string>
 	</dict>
 </dict>
 </plist>
